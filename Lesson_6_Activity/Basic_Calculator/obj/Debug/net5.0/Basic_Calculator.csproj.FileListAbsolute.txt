@@ -1,0 +1,15 @@
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/bin/Debug/net5.0/Basic_Calculator.deps.json
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/bin/Debug/net5.0/Basic_Calculator.runtimeconfig.json
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/bin/Debug/net5.0/Basic_Calculator.runtimeconfig.dev.json
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/bin/Debug/net5.0/Basic_Calculator.dll
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/bin/Debug/net5.0/ref/Basic_Calculator.dll
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/bin/Debug/net5.0/Basic_Calculator.pdb
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/Basic_Calculator.csproj.AssemblyReference.cache
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/Basic_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/Basic_Calculator.AssemblyInfoInputs.cache
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/Basic_Calculator.AssemblyInfo.cs
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/Basic_Calculator.csproj.CoreCompileInputs.cache
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/Basic_Calculator.dll
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/ref/Basic_Calculator.dll
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/Basic_Calculator.pdb
+/Users/jopittendreigh/Documents/C#/Lesson_6_Methods/Lesson_6_Activity/Basic_Calculator/obj/Debug/net5.0/Basic_Calculator.genruntimeconfig.cache
