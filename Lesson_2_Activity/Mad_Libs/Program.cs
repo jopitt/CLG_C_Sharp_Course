@@ -7,11 +7,11 @@ namespace Mad_Libs
         static void Main(string[] args)
         {
             Console.WriteLine("What is your name?");
-            var name = Console.ReadLine().Trim();
+            var name = Console.ReadLine().Trim().ToLower();
             Console.WriteLine("What is your favourite mode of transport?");
             var transport = Console.ReadLine().Trim().ToLower();
             Console.WriteLine("Pick an out of the way travel destination");
-            var destination = Console.ReadLine().Trim();
+            var destination = Console.ReadLine().Trim().ToLower();
             Console.WriteLine("Pick an adverb e.g. playfully, sadly");
             var adverb = Console.ReadLine().Trim().ToLower();
             Console.WriteLine("Pick a plural noun");

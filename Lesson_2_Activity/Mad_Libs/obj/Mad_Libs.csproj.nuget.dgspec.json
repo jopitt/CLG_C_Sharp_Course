@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Mad_Libs/Mad_Libs.csproj": {}
+    "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Lesson_2_Activity/Mad_Libs/Mad_Libs.csproj": {}
   },
   "projects": {
-    "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Mad_Libs/Mad_Libs.csproj": {
+    "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Lesson_2_Activity/Mad_Libs/Mad_Libs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Mad_Libs/Mad_Libs.csproj",
+        "projectUniqueName": "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Lesson_2_Activity/Mad_Libs/Mad_Libs.csproj",
         "projectName": "Mad_Libs",
-        "projectPath": "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Mad_Libs/Mad_Libs.csproj",
+        "projectPath": "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Lesson_2_Activity/Mad_Libs/Mad_Libs.csproj",
         "packagesPath": "/Users/jopittendreigh/.nuget/packages/",
-        "outputPath": "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Mad_Libs/obj/",
+        "outputPath": "/Users/jopittendreigh/Documents/C#/Lesson_2_Variables_and_Types/Lesson_2_Activity/Mad_Libs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jopittendreigh/.nuget/NuGet/NuGet.Config"
